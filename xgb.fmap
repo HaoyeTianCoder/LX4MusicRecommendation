@@ -1,0 +1,15 @@
+0	artist	q
+1	prefer_score_artist	q
+2	prefer_score_genre	q
+3	release_year	q
+4	popularity	q
+5	duration	q
+6	end_of_fade_in	q
+7	loudness	q
+8	song_mode	q
+9	mode_confi	q
+10	tempo	q
+11	time_sig	q
+12	time_sig_confi	q
+13	artist_hottness	q
+14	song_hottness	q

@@ -1,0 +1,399 @@
+[0]	train-error:0.283254	eval-error:0.288462
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[1]	train-error:0.283254	eval-error:0.288462
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[2]	train-error:0.283388	eval-error:0.288462
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[3]	train-error:0.282718	eval-error:0.288618
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[4]	train-error:0.277759	eval-error:0.284396
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[5]	train-error:0.279367	eval-error:0.286429
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[6]	train-error:0.277558	eval-error:0.284396
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[7]	train-error:0.27729	eval-error:0.283146
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[8]	train-error:0.276888	eval-error:0.281582
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[9]	train-error:0.276017	eval-error:0.28252
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[10]	train-error:0.276553	eval-error:0.282833
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[11]	train-error:0.276352	eval-error:0.283302
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[12]	train-error:0.276687	eval-error:0.283302
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[13]	train-error:0.275816	eval-error:0.283771
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[14]	train-error:0.276084	eval-error:0.283302
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[15]	train-error:0.275615	eval-error:0.283146
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[16]	train-error:0.274342	eval-error:0.282364
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[17]	train-error:0.274074	eval-error:0.282364
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[18]	train-error:0.2728	eval-error:0.28127
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[19]	train-error:0.272063	eval-error:0.280644
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[20]	train-error:0.271795	eval-error:0.280331
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[21]	train-error:0.271192	eval-error:0.281113
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[22]	train-error:0.270254	eval-error:0.280957
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[23]	train-error:0.269517	eval-error:0.280644
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[24]	train-error:0.268981	eval-error:0.279862
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[25]	train-error:0.269115	eval-error:0.280331
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[26]	train-error:0.268512	eval-error:0.280331
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[27]	train-error:0.267574	eval-error:0.280175
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[28]	train-error:0.267238	eval-error:0.280019
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[29]	train-error:0.266836	eval-error:0.278768
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[30]	train-error:0.266501	eval-error:0.278768
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 18 extra nodes, 4 pruned nodes, max_depth=4
+[31]	train-error:0.266032	eval-error:0.277986
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[32]	train-error:0.265429	eval-error:0.278455
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[33]	train-error:0.265295	eval-error:0.278455
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 20 extra nodes, 10 pruned nodes, max_depth=4
+[34]	train-error:0.265027	eval-error:0.277674
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 2 pruned nodes, max_depth=4
+[35]	train-error:0.263821	eval-error:0.27611
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[36]	train-error:0.264156	eval-error:0.277048
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 6 pruned nodes, max_depth=4
+[37]	train-error:0.264022	eval-error:0.277048
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[38]	train-error:0.26362	eval-error:0.276735
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[39]	train-error:0.263352	eval-error:0.277361
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[40]	train-error:0.262816	eval-error:0.277517
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[41]	train-error:0.262749	eval-error:0.277361
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[42]	train-error:0.262481	eval-error:0.277048
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[43]	train-error:0.262414	eval-error:0.277517
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[44]	train-error:0.261945	eval-error:0.277517
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 18 extra nodes, 2 pruned nodes, max_depth=4
+[45]	train-error:0.261811	eval-error:0.276892
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[46]	train-error:0.260939	eval-error:0.276735
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[47]	train-error:0.260939	eval-error:0.276735
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[48]	train-error:0.260671	eval-error:0.277205
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[49]	train-error:0.260001	eval-error:0.27611
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[50]	train-error:0.259398	eval-error:0.276735
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[51]	train-error:0.258996	eval-error:0.277048
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[52]	train-error:0.259063	eval-error:0.277674
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[53]	train-error:0.258661	eval-error:0.277986
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[54]	train-error:0.258728	eval-error:0.277517
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[55]	train-error:0.257924	eval-error:0.275954
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[56]	train-error:0.25779	eval-error:0.275797
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 0 pruned nodes, max_depth=4
+[57]	train-error:0.257656	eval-error:0.275641
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[58]	train-error:0.257522	eval-error:0.275641
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[59]	train-error:0.257522	eval-error:0.275641
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 2 pruned nodes, max_depth=4
+[60]	train-error:0.257254	eval-error:0.275797
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 4 pruned nodes, max_depth=4
+[61]	train-error:0.256919	eval-error:0.275641
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[62]	train-error:0.256919	eval-error:0.275797
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[63]	train-error:0.256651	eval-error:0.275954
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 6 pruned nodes, max_depth=4
+[64]	train-error:0.256115	eval-error:0.275485
+[13:58:44] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 2 pruned nodes, max_depth=4
+[65]	train-error:0.255847	eval-error:0.275172
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[66]	train-error:0.255847	eval-error:0.274859
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[67]	train-error:0.255847	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[68]	train-error:0.255713	eval-error:0.274547
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[69]	train-error:0.256182	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[70]	train-error:0.256115	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[71]	train-error:0.25511	eval-error:0.275172
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[72]	train-error:0.254775	eval-error:0.274078
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[73]	train-error:0.254573	eval-error:0.274078
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 20 extra nodes, 0 pruned nodes, max_depth=4
+[74]	train-error:0.254506	eval-error:0.27439
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[75]	train-error:0.254171	eval-error:0.27439
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[76]	train-error:0.254037	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 2 pruned nodes, max_depth=4
+[77]	train-error:0.254037	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[78]	train-error:0.254238	eval-error:0.274859
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[79]	train-error:0.25397	eval-error:0.275328
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[80]	train-error:0.254104	eval-error:0.275954
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 18 extra nodes, 8 pruned nodes, max_depth=4
+[81]	train-error:0.253769	eval-error:0.274859
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[82]	train-error:0.253099	eval-error:0.275016
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[83]	train-error:0.252831	eval-error:0.274859
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[84]	train-error:0.252764	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 2 pruned nodes, max_depth=4
+[85]	train-error:0.252764	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[86]	train-error:0.25263	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[87]	train-error:0.252362	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 0 pruned nodes, max_depth=4
+[88]	train-error:0.252094	eval-error:0.274703
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 0 pruned nodes, max_depth=4
+[89]	train-error:0.25196	eval-error:0.274547
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 4 pruned nodes, max_depth=4
+[90]	train-error:0.251893	eval-error:0.274547
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[91]	train-error:0.251826	eval-error:0.27439
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[92]	train-error:0.251558	eval-error:0.274547
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 20 extra nodes, 6 pruned nodes, max_depth=4
+[93]	train-error:0.25129	eval-error:0.27439
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 4 pruned nodes, max_depth=4
+[94]	train-error:0.250754	eval-error:0.27439
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[95]	train-error:0.25129	eval-error:0.273765
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[96]	train-error:0.251022	eval-error:0.273765
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[97]	train-error:0.25062	eval-error:0.273452
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[98]	train-error:0.250218	eval-error:0.273296
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[99]	train-error:0.249213	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[100]	train-error:0.249146	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 4 pruned nodes, max_depth=4
+[101]	train-error:0.248677	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 2 pruned nodes, max_depth=4
+[102]	train-error:0.248677	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[103]	train-error:0.248476	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 6 pruned nodes, max_depth=4
+[104]	train-error:0.248476	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[105]	train-error:0.248744	eval-error:0.272827
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[106]	train-error:0.248476	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[107]	train-error:0.248408	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[108]	train-error:0.248543	eval-error:0.273296
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 2 pruned nodes, max_depth=4
+[109]	train-error:0.248476	eval-error:0.272827
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 2 pruned nodes, max_depth=4
+[110]	train-error:0.248408	eval-error:0.272827
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 4 pruned nodes, max_depth=4
+[111]	train-error:0.248207	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[112]	train-error:0.248207	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[113]	train-error:0.248006	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 0 pruned nodes, max_depth=4
+[114]	train-error:0.248006	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[115]	train-error:0.247939	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 2 pruned nodes, max_depth=4
+[116]	train-error:0.247738	eval-error:0.272201
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[117]	train-error:0.246934	eval-error:0.273139
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 2 pruned nodes, max_depth=4
+[118]	train-error:0.246867	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[119]	train-error:0.246934	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[120]	train-error:0.246599	eval-error:0.273452
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 4 pruned nodes, max_depth=4
+[121]	train-error:0.246733	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 4 pruned nodes, max_depth=4
+[122]	train-error:0.246666	eval-error:0.272983
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[123]	train-error:0.246398	eval-error:0.273296
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[124]	train-error:0.245795	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[125]	train-error:0.245795	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[126]	train-error:0.245862	eval-error:0.272827
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 0 pruned nodes, max_depth=4
+[127]	train-error:0.245996	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 0 pruned nodes, max_depth=4
+[128]	train-error:0.245862	eval-error:0.272514
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 2 pruned nodes, max_depth=4
+[129]	train-error:0.245929	eval-error:0.272358
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 2 pruned nodes, max_depth=4
+[130]	train-error:0.245929	eval-error:0.272358
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[131]	train-error:0.245527	eval-error:0.272358
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 2 pruned nodes, max_depth=4
+[132]	train-error:0.245527	eval-error:0.272358
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[133]	train-error:0.245527	eval-error:0.27267
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[134]	train-error:0.245795	eval-error:0.272358
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 4 pruned nodes, max_depth=4
+[135]	train-error:0.24546	eval-error:0.272201
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[136]	train-error:0.24546	eval-error:0.273452
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[137]	train-error:0.245326	eval-error:0.273452
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[138]	train-error:0.245192	eval-error:0.273765
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 24 extra nodes, 0 pruned nodes, max_depth=4
+[139]	train-error:0.244522	eval-error:0.273296
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 0 pruned nodes, max_depth=4
+[140]	train-error:0.244589	eval-error:0.273139
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 12 extra nodes, 2 pruned nodes, max_depth=4
+[141]	train-error:0.244589	eval-error:0.273139
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 14 extra nodes, 4 pruned nodes, max_depth=4
+[142]	train-error:0.244589	eval-error:0.273139
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 10 extra nodes, 0 pruned nodes, max_depth=4
+[143]	train-error:0.244589	eval-error:0.273139
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 22 extra nodes, 2 pruned nodes, max_depth=4
+[144]	train-error:0.244589	eval-error:0.273452
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 16 extra nodes, 8 pruned nodes, max_depth=4
+[145]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[146]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[147]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[148]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[149]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[150]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[151]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[152]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[153]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[154]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[155]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[156]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[157]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[158]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[159]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[160]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[161]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[162]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[163]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[164]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[165]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[166]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[167]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[168]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[169]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[170]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[171]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[172]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[173]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[174]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[175]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[176]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[177]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[178]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[179]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[180]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[181]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[182]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[183]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[184]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[185]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[186]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[187]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[188]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[189]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[190]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[191]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[192]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[193]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[194]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[195]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[196]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[197]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[198]	train-error:0.244522	eval-error:0.273609
+[13:58:45] D:\xgboost\xgboost\src\tree\updater_prune.cc:75: tree pruning end, 1 roots, 0 extra nodes, 10 pruned nodes, max_depth=0
+[199]	train-error:0.244522	eval-error:0.273609
