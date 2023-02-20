@@ -1,5 +1,4 @@
-# LX Model for Music Recommendation
-
+# A Music Recommendation System Based on logistic regression and eXtreme Gradient Boosting
 ```bibtex
 @inproceedings{tian2019music,
   title={A Music Recommendation System Based on logistic regression and eXtreme Gradient Boosting},
@@ -10,7 +9,8 @@
   organization={IEEE}
 }
 ```
+Paper Link: https://ieeexplore.ieee.org/document/8852094
 
-## A Music Recommendation System Based on logistic regression and eXtreme Gradient Boosting
-
-leverage hybrid LX model to recommend music
+LX
+=======
+LX (Logistic regression + XGBoost), a hybrid model to recommend music by integrating logistic regression and XGBoost algorithms.
